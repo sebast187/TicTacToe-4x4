@@ -1,4 +1,4 @@
-# TicTacToe-4x4
+# Tic Tac Four
 La mejor manera de jugar gato, con más espacio para jugar y más maneras de ganar.
 
 Como jugar:
@@ -8,7 +8,10 @@ Como jugar:
 - Al correr el archivo, en la consola dirá las instrucciones del juego
 - ¡Diviértanse!
 
+Para una guía informativa checar [aquí](Final_Build/Tic_Tac_Four_Presentacion.pdf)
+
 
 ' Por cierto, si encuentran algún error, favor de describir y publicarlo como comentario en el repositorio, gracias.
 
-Para una guía informativa checar [aquí](Final_Build/Tic_Tac_Four_Presentacion.pdf)
+Presentación y búsqueda de optimización del código: Juan, Naomi y Daniel
+Creador del código y del juego: Sebastián
