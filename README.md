@@ -14,4 +14,5 @@ Para una guía informativa checar [aquí](Final_Build/Tic_Tac_Four_Presentacion.
 ' Por cierto, si encuentran algún error, favor de describir y publicarlo como comentario en el repositorio, gracias.
 
 Presentación y búsqueda de optimización del código: Juan, Naomi y Daniel
+
 Creador del código y del juego: Sebastián
