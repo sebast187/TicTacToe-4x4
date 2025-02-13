@@ -8,4 +8,7 @@ Como jugar:
 - Al correr el archivo, en la consola dirá las instrucciones del juego
 - ¡Diviértanse!
 
-* Por cierto, si encuentran algún error, favor de describir y publicarlo como comentario en el repositorio, gracias.
+
+' Por cierto, si encuentran algún error, favor de describir y publicarlo como comentario en el repositorio, gracias.
+
+Para una guía informativa checar [aquí](TicTacToe-4x4/Tic_Tac_Four_Presentacion.pdf)
